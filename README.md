@@ -6,7 +6,7 @@ Agricultural engineer, cofounder, and technical leader building geospatial tools
 [![Farm Analytica](https://img.shields.io/badge/FARM-Analytica-1f6f43?style=flat-square)](https://www.farmanalytica.com.br)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6926--9368-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6926-9368)
 
-I am a cofounder and technical lead at FARM Analytica, where I help shape products, guide development, and turn geospatial and climate data into practical tools. My work combines Python, QGIS, Google Earth Engine, and applied research to build workflows that are useful for agriculture, environmental analysis, and decision-making in the field.
+I am a cofounder and technical lead at FARM Analytica, where I help shape products, guide development, and turn geospatial and climate data into practical tools. My work combines Python, QGIS, Google Earth Engine, and applied research to build workflows for agriculture, environmental analysis, and decision-making in the field. Open source is encouraged at FARM Analytica, and the company continues to support the public projects we build and maintain here on GitHub, alongside exclusive solutions developed for clients.
 
 ## What I work on
 
@@ -16,7 +16,9 @@ I am a cofounder and technical lead at FARM Analytica, where I help shape produc
 - Vegetation indices, DEMs, and spatial decision support
 - Research-driven tools for precision agriculture
 
-## Featured projects
+## Open-source projects
+
+These are some of the public tools I share here on GitHub. Open-source development is encouraged at FARM Analytica, and we continue to support and improve these projects alongside private and custom solutions developed for companies and institutions.
 
 | Project | Description |
 | --- | --- |
